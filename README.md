@@ -1,13 +1,18 @@
-# mscreate-kidsactivitypack
-Kids Activity Pack curated for Create:Frontend 
+# Devs Speak 开发者说 - 儿童参会礼包
+Devs Speak 开发者说系列活动儿童参会礼包，为你的孩子特意准备。 
 
-### Kids Activity Pack Create:Frontend 
-  
-Let's face it. With the COVID-19 pandemic across the world, children, guardians, and parents are affected by the nationwide school closures. Many guardians and parents are struggling to work and manage kids at home at the same time.
+## 儿童参会礼包内容
 
-Keeping children engaged is now essential as part of an Events Best Practice. At Microsoft, our DevRel team has introduced a Kids Activity Pack that will entertain children and provide a much-needed escape into the fun and magical worlds of imagination. All these happening while our developer parents and guardians attend our conference.
+面对现实吧。随着全球COVID-19的流行，儿童、监护人和父母受到全国学校停课的影响。许多监护人和父母都同时在家工作和照顾孩子。
 
-The Kids Activity pack debuts on the 29 Jul 2020 at the inaugural Microsoft Create: Frontend, a half-day virtual session where developers from the community come together to have conversations on pressing topics for frontend developers, such as building inclusive and accessible web applications, static sites, serverless, and much more.
+现在，作为活动最佳实践的一部分，保持孩子的参与至关重要。在Microsoft，我们的DevRel团队引入了一个儿童参会礼包，该游戏包将使孩子们开心并让他们进入有趣而神奇的想象世界。所有这些都是在我们的开发人员的父母和监护人参加我们的活动时发生的。
 
-No printer? We've got you covered digitally too. :)
-As part of the event themed Static Web Applications, we have also created a digital version with static web apps https://aka.ms/mscreate-kapdigital
+儿童活动包将于2020年7月29日在首届 [Create:Frontend](https://aka.ms/createfrontend) 上首次亮相，这是一个为期半天的虚拟会议，社区中的开发人员聚在一起，就前端开发人员的紧迫话题进行对话，例如构建兼容且可访问的Web应用程序， 静态站点，无服务器等等。
+
+Devs Speak开发者说是一个每季度举办的社区活动，旨在为技术爱好者社区提供定期相聚的平台，支持和鼓励新常态下的个人和社区发展。第一期活动主题是Power Platform：助力美好生活，当然也少不了让孩子们参与起来。
+
+## 没有打印机该怎么办？
+
+为了环保，我们也提供了电子版本的儿童参会礼包。
+
+作为[静态站点](https://azure.microsoft.com/services/app-service/static/?WT.mc_id=devsspeakgcr1-vevent-xinglzhu)的示例，我们也创建了一个在线版，可以通过平板电脑打开让孩子直接在上面使用：<https://workbooks.aaron-powell.com/>
